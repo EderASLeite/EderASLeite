@@ -1,4 +1,4 @@
-### Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>
+### Hi there <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23">
 ---
 <br>
 My name is Eder, I'm from São Paulo, Brazil and I'm currently a web development student!
