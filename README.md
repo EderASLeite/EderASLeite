@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 <br>
-My name is Eder, I'm from Sorocaba, Brazil and I'm currently a web development student!
+My name is Eder, I'm from São Paulo, Brazil and I'm currently a web development student!
 <br><br><br>
 
  <div>
