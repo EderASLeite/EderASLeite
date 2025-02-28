@@ -1,7 +1,7 @@
 ### Hi there <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23">
 ---
 <br>
-My name is Eder, I'm from São Paulo, Brazil and I'm currently a web development student!
+Sou o Eder Santos Leite, e atualmente sou estudante de desenvolvimento web!
 <br><br><br>
 
  <div>
