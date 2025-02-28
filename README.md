@@ -6,8 +6,8 @@ Sou o Eder Santos Leite, e atualmente sou estudante de desenvolvimento web!
 
  <div>
   <a href="https://github.com/EderASLeite">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=monokai"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderASLeite&layout=compact&langs_count=6&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderASLeite&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 <br>
 
