@@ -6,7 +6,8 @@ My name is Eder, I'm from São Paulo, Brazil and I'm currently a web development
 
  <div>
   <a href="https://github.com/EderASLeite">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=monokai"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderASLeite&layout=compact&langs_count=6&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderASLeite&layout=compact&langs_count=6&theme=monokai"/>
 </div>
 <br>
 
